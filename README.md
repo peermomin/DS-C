@@ -16,11 +16,11 @@ This repository serves as a learning resource for understanding and implementing
 ## Topics Covered
 
 - **Stack**
-- **Queue**
-- **Linked List**
-- **Binary Tree**
-- **Binary Search Tree**
-- **Hash Table**
+- *(Coming soon: Queue)*
+- *(Coming soon: Linked List)*
+- *(Coming soon: Binary Tree)*
+- *(Coming soon: Graphs)*
+- *(Coming soon: Binary Search Tree)*
 - *(Coming soon: Graphs)*
 - *(Coming soon: Sorting Algorithms)*
 
